@@ -26,7 +26,7 @@ main {
     transform: translate(-50%, -50%);
     overflow: hidden;
     background-color: #ba9c87;
-    width: 280px;
+    width: 250px;
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.582);
